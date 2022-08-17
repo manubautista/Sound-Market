@@ -10,7 +10,7 @@ const Footer = () => {
         <AiFillInstagram />
         <AiOutlineTwitter />
       </p>
-      <p>Made With by Manuel Bautista</p>
+      <p>Made With ❤ by Manuel Bautista</p>
       <a className="email" target='_blank' href="https://manuelbautista.netlify.app/">
         My Personal Portfolio 😉
       </a>
