@@ -1,5 +1,8 @@
+# Site deployed on: https://soundmarket.vercel.app/
+# Description
 It's an Ecommerce application with a content managging system and also complete payments integration.
 
+# Tecnologies
 React Hooks (Front end)
 - Hooks
 - State Management with React Context API
