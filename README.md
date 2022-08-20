@@ -5,13 +5,10 @@ React Hooks (Front end)
 - State Management with React Context API
 
 Next Js (Back end)
-- file based routing
+- File based routing
 - Data fetching 
 - Server side rendering static generation
 
-Stripe
-- Payments
-- Products
-
 Sanity (Backoffice)
-- Content managging system 
+- Consuming API for the Ecommerce products
+- Content managging system
